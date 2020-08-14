@@ -40,6 +40,19 @@ p {
     /* margin: auto; */
 }
 
+#Chicken {
+    background-color: #e18e96;
+}
+
+#Beef {
+    background-color: #c14543;
+    color: white;
+}
+
+#Sushi {
+    background-color: #e5d198;
+}
+
 /* Desktop View */
 
 @media (min-width: 992px) {
