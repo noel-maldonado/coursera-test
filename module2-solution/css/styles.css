@@ -170,4 +170,7 @@ p {
     .col-sm-12 {
         width: 100%;
     }
+    .item {
+        margin: 10px 40px;
+    }
 }
