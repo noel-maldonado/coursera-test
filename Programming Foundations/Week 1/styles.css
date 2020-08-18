@@ -1,0 +1,12 @@
+table,
+th,
+td,
+tbody,
+tfoot,
+thead {
+	border: 1px solid black;
+}
+
+h1 {
+	text-align: center;
+}

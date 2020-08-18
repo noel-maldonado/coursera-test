@@ -1,0 +1,71 @@
+html, body {
+    font-size: 15px;
+    line-height: 1.5;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-image: linear-gradient(to bottom right, white, blue, white, blue, white, blue, white);
+}
+
+table {
+    border: 1px solid #ddd;
+    border-collapse: collapse;
+    width: fit-content;
+    margin: auto;
+}
+
+td, th {
+    padding: 8px 10px;
+    text-align: left;
+    vertical-align: top;
+    display: table-cell;
+    border-bottom: 1px solid #ddd;
+}
+
+tr:nth-child(even) {
+    background-color: #f2f2f2;
+}
+
+th {
+    background-color: #f2f2f2;
+}
+
+h1 {
+    text-align: center;
+}
+
+header p {
+    width: fit-content;
+    margin: auto;
+    text-align: left;
+}
+
+li {
+    text-align: start;
+}
+
+h2 {
+    text-align: center;
+}
+
+#top_header {
+    text-align: center;
+    margin: auto;
+}
+
+#header_examples {
+    text-align: left;
+    width: fit-content;
+    margin-top: 0px;
+}
+
+#header_description {
+    width: fit-content;
+    margin: auto;
+}
+
+#hover_example:hover {
+    background-color: aqua;
+}
+
+#active:active {
+    background-color: aqua;
+}
